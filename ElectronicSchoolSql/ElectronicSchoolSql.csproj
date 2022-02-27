@@ -1,0 +1,755 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{263A4C67-C473-49DB-A34C-CFF02053787B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ElectronicSchoolSql</RootNamespace>
+    <AssemblyName>ElectronicSchoolSql</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <PublisherName>msnsoft</PublisherName>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ElectronicSchoolSql.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>image.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4A71AEA42ACF4378F35AE1234A926615CF2264D8</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ElectronicSchoolSql_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AnalogClock">
+      <HintPath>..\..\..\..\..\Downloads\Compressed\test20_[www.softsaaz.ir]\test_softsaaz1\test_softsaaz1\bin\Debug\AnalogClock.dll</HintPath>
+    </Reference>
+    <Reference Include="GHNet.Win">
+      <HintPath>..\..\..\..\..\Downloads\Compressed\Analog_Clock_2\Analog_Clock\Analog_Clock\Clock\bin\Debug\GHNet.Win.dll</HintPath>
+    </Reference>
+    <Reference Include="PersianDate, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\PersianDate.DLL</HintPath>
+    </Reference>
+    <Reference Include="PopupControl, Version=1.4.0.968, Culture=neutral, PublicKeyToken=04c10344d6495b18, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\PopupControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="b.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="b.Designer.cs">
+      <DependentUpon>b.cs</DependentUpon>
+    </Compile>
+    <Compile Include="be.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="be.Designer.cs">
+      <DependentUpon>be.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classfive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="classfive.Designer.cs">
+      <DependentUpon>classfive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classfure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="classfure.Designer.cs">
+      <DependentUpon>classfure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classsex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="classsex.Designer.cs">
+      <DependentUpon>classsex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classtree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="classtree.Designer.cs">
+      <DependentUpon>classtree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="classtwo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="classtwo.Designer.cs">
+      <DependentUpon>classtwo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Data\DataSetLinq.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetLinq.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="facomthreecs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facomthreecs.Designer.cs">
+      <DependentUpon>facomthreecs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facomtwo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facomtwo.Designer.cs">
+      <DependentUpon>facomtwo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="faeltectwo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="faeltectwo.Designer.cs">
+      <DependentUpon>faeltectwo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="faelthree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="faelthree.Designer.cs">
+      <DependentUpon>faelthree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="faeltwo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="faeltwo.Designer.cs">
+      <DependentUpon>faeltwo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fakemathree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fakemathree.Designer.cs">
+      <DependentUpon>fakemathree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fakeomotwo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fakeomotwo.Designer.cs">
+      <DependentUpon>fakeomotwo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="famafarthree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="famafarthree.Designer.cs">
+      <DependentUpon>famafarthree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="famecanicthree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="famecanicthree.Designer.cs">
+      <DependentUpon>famecanicthree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="famecanictwo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="famecanictwo.Designer.cs">
+      <DependentUpon>famecanictwo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fanaghmemarithree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fanaghmemarithree.Designer.cs">
+      <DependentUpon>fanaghmemarithree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fasachobthree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fasachobthree.Designer.cs">
+      <DependentUpon>fasachobthree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fasafelezithree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fasafelezithree.Designer.cs">
+      <DependentUpon>fasafelezithree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fatathree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fatathree.Designer.cs">
+      <DependentUpon>fatathree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fathreenaghsheocs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fathreenaghsheocs.Designer.cs">
+      <DependentUpon>fathreenaghsheocs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbook.Designer.cs">
+      <DependentUpon>frmbook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmClassOne.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmClassOne.Designer.cs">
+      <DependentUpon>frmClassOne.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmhelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmhelp.Designer.cs">
+      <DependentUpon>frmhelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmidquiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmidquiz.Designer.cs">
+      <DependentUpon>frmidquiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmlesson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmlesson.Designer.cs">
+      <DependentUpon>frmlesson.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmnewquiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmnewquiz.Designer.cs">
+      <DependentUpon>frmnewquiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmQuiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmQuiz.Designer.cs">
+      <DependentUpon>FrmQuiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmquizs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmquizs.Designer.cs">
+      <DependentUpon>frmquizs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmr.Designer.cs">
+      <DependentUpon>frmr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmresult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmresult.Designer.cs">
+      <DependentUpon>frmresult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gho.Designer.cs">
+      <DependentUpon>gho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIMain.Designer.cs">
+      <DependentUpon>MDIMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="messegebox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="messegebox.Designer.cs">
+      <DependentUpon>messegebox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MftooxCalendar.cs" />
+    <Compile Include="moomoone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="moomoone.Designer.cs">
+      <DependentUpon>moomoone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="naenthree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="naenthree.Designer.cs">
+      <DependentUpon>naenthree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="naentwocs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="naentwocs.Designer.cs">
+      <DependentUpon>naentwocs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="narifithree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="narifithree.Designer.cs">
+      <DependentUpon>narifithree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="narifitwo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="narifitwo.Designer.cs">
+      <DependentUpon>narifitwo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="natathree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="natathree.Designer.cs">
+      <DependentUpon>natathree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="natatwo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="natatwo.Designer.cs">
+      <DependentUpon>natatwo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="o.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="o.Designer.cs">
+      <DependentUpon>o.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pishrifi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pishrifi.Designer.cs">
+      <DependentUpon>pishrifi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pishta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pishta.Designer.cs">
+      <DependentUpon>pishta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="r.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="r.Designer.cs">
+      <DependentUpon>r.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rahtree.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rahtree.Designer.cs">
+      <DependentUpon>rahtree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rahtwo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rahtwo.Designer.cs">
+      <DependentUpon>rahtwo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectQuiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectQuiz.Designer.cs">
+      <DependentUpon>SelectQuiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="startquiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="startquiz.Designer.cs">
+      <DependentUpon>startquiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="testquiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testquiz.Designer.cs">
+      <DependentUpon>testquiz.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="b.resx">
+      <DependentUpon>b.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="be.resx">
+      <DependentUpon>be.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="DataDataSet.xsc">
+      <DependentUpon>DataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataDataSet.xss">
+      <DependentUpon>DataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Data\DataSetLinq.dbml.layout">
+      <DependentUpon>DataSetLinq.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="classfive.resx">
+      <DependentUpon>classfive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="classfure.resx">
+      <DependentUpon>classfure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="classsex.resx">
+      <DependentUpon>classsex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="classtree.resx">
+      <DependentUpon>classtree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="classtwo.resx">
+      <DependentUpon>classtwo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facomthreecs.resx">
+      <DependentUpon>facomthreecs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facomtwo.resx">
+      <DependentUpon>facomtwo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="faeltectwo.resx">
+      <DependentUpon>faeltectwo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="faelthree.resx">
+      <DependentUpon>faelthree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="faeltwo.resx">
+      <DependentUpon>faeltwo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fakemathree.resx">
+      <DependentUpon>fakemathree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fakeomotwo.resx">
+      <DependentUpon>fakeomotwo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="famafarthree.resx">
+      <DependentUpon>famafarthree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="famecanicthree.resx">
+      <DependentUpon>famecanicthree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="famecanictwo.resx">
+      <DependentUpon>famecanictwo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fanaghmemarithree.resx">
+      <DependentUpon>fanaghmemarithree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fasachobthree.resx">
+      <DependentUpon>fasachobthree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fasafelezithree.resx">
+      <DependentUpon>fasafelezithree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fatathree.resx">
+      <DependentUpon>fatathree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fathreenaghsheocs.resx">
+      <DependentUpon>fathreenaghsheocs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmClassOne.resx">
+      <DependentUpon>frmClassOne.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmhelp.resx">
+      <DependentUpon>frmhelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmidquiz.resx">
+      <DependentUpon>frmidquiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmlesson.resx">
+      <DependentUpon>frmlesson.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmnewquiz.resx">
+      <DependentUpon>frmnewquiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmr.resx">
+      <DependentUpon>frmr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmresult.resx">
+      <DependentUpon>frmresult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gho.resx">
+      <DependentUpon>gho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="messegebox.resx">
+      <DependentUpon>messegebox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="moomoone.resx">
+      <DependentUpon>moomoone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="naenthree.resx">
+      <DependentUpon>naenthree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="naentwocs.resx">
+      <DependentUpon>naentwocs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="narifithree.resx">
+      <DependentUpon>narifithree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="narifitwo.resx">
+      <DependentUpon>narifitwo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="natathree.resx">
+      <DependentUpon>natathree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="natatwo.resx">
+      <DependentUpon>natatwo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="o.resx">
+      <DependentUpon>o.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pishrifi.resx">
+      <DependentUpon>pishrifi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pishta.resx">
+      <DependentUpon>pishta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="r.resx">
+      <DependentUpon>r.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rahtree.resx">
+      <DependentUpon>rahtree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rahtwo.resx">
+      <DependentUpon>rahtwo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectQuiz.resx">
+      <DependentUpon>SelectQuiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="startquiz.resx">
+      <DependentUpon>startquiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testquiz.resx">
+      <DependentUpon>testquiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbook.resx">
+      <DependentUpon>frmbook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmQuiz.resx">
+      <DependentUpon>FrmQuiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmquizs.resx">
+      <DependentUpon>frmquizs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIMain.resx">
+      <DependentUpon>MDIMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Data\DataSetLinq.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataSetLinq.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ElectronicSchoolSql_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Resources\app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Data.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Data\Data_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Data.mdf</DependentUpon>
+    </Content>
+    <Content Include="Data_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Data.mdf</DependentUpon>
+    </Content>
+    <Content Include="dbgh.xml" />
+    <Content Include="dbr.xml" />
+    <Content Include="desktop.ico" />
+    <Content Include="E-learning.ico" />
+    <Content Include="ico.ico" />
+    <Content Include="image.ico" />
+    <Content Include="msnsoft.ico" />
+    <Content Include="Resources\BlueBack.png" />
+    <Content Include="Resources\DayEvents.xml" />
+    <None Include="Resources\formsmall.jpg" />
+    <None Include="Resources\formsmall1.jpg" />
+    <None Include="Resources\formlarge.jpg" />
+    <None Include="Resources\formxlarge.jpg" />
+    <None Include="Resources\formxlarge1.jpg" />
+    <Content Include="Resources\GoldBack.png" />
+    <Content Include="Resources\GreenBack.png" />
+    <None Include="Resources\piclarg.jpg" />
+    <None Include="Resources\pic.jpg" />
+    <None Include="Resources\new.jpg" />
+    <None Include="Resources\new1.jpg" />
+    <None Include="Resources\messege.jpg" />
+    <None Include="Resources\newww.jpg" />
+    <None Include="Resources\neww.jpg" />
+    <Content Include="Resources\WhiteSmokeBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

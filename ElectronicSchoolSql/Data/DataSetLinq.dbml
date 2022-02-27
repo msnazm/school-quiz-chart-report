@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Data" Class="DataSetLinqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Data.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True" SettingsObjectName="ElectronicSchoolSql.Properties.Settings" SettingsPropertyName="DataConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tbl_book" Member="tbl_books">
+    <Type Name="tbl_book">
+      <Column Name="Id_Book" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name_book" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="Id_Quiz" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tbl_book_tbl_lesson" Member="tbl_lessons" ThisKey="Id_Book" OtherKey="Id_Book" Type="tbl_lesson" />
+      <Association Name="tbl_book_tbl_main" Member="tbl_mains" ThisKey="Id_Book" OtherKey="id_book" Type="tbl_main" />
+      <Association Name="tbl_book_tbl_result" Member="tbl_results" ThisKey="Id_Book" OtherKey="Id_Book" Type="tbl_result" />
+      <Association Name="tbl_quiz_tbl_book" Member="tbl_quiz" ThisKey="Id_Quiz" OtherKey="Id_Quiz" Type="tbl_quiz" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_lesson" Member="tbl_lessons">
+    <Type Name="tbl_lesson">
+      <Column Name="id_lesson" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name_lesson" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="Id_Book" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tbl_lesson_tbl_main" Member="tbl_mains" ThisKey="id_lesson" OtherKey="id_lesson" Type="tbl_main" />
+      <Association Name="tbl_lesson_tbl_result" Member="tbl_results" ThisKey="id_lesson" OtherKey="id_lesson" Type="tbl_result" />
+      <Association Name="tbl_book_tbl_lesson" Member="tbl_book" ThisKey="Id_Book" OtherKey="Id_Book" Type="tbl_book" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_main" Member="tbl_mains">
+    <Type Name="tbl_main">
+      <Column Name="id_main" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="date_main" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="id_quiz" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_book" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_lesson" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tbl_main_tbl_question" Member="tbl_questions" ThisKey="id_main" OtherKey="id_main" Type="tbl_question" />
+      <Association Name="tbl_book_tbl_main" Member="tbl_book" ThisKey="id_book" OtherKey="Id_Book" Type="tbl_book" IsForeignKey="true" />
+      <Association Name="tbl_lesson_tbl_main" Member="tbl_lesson" ThisKey="id_lesson" OtherKey="id_lesson" Type="tbl_lesson" IsForeignKey="true" />
+      <Association Name="tbl_quiz_tbl_main" Member="tbl_quiz" ThisKey="id_quiz" OtherKey="Id_Quiz" Type="tbl_quiz" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_question" Member="tbl_questions">
+    <Type Name="tbl_question">
+      <Column Name="Id_Question" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="question" Type="System.String" DbType="NVarChar(300)" CanBeNull="true" />
+      <Column Name="answerone" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="answertwo" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="answerthree" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="answerfure" Type="System.String" DbType="NVarChar(200)" CanBeNull="true" />
+      <Column Name="answer" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_main" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="testcorect" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="resultCorrect" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="resultInCorrect" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="num" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tbl_main_tbl_question" Member="tbl_main" ThisKey="id_main" OtherKey="id_main" Type="tbl_main" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_quiz" Member="tbl_quizs">
+    <Type Name="tbl_quiz">
+      <Column Name="Id_Quiz" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name_quiz" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="date_quiz" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="tbl_quiz_tbl_book" Member="tbl_books" ThisKey="Id_Quiz" OtherKey="Id_Quiz" Type="tbl_book" />
+      <Association Name="tbl_quiz_tbl_main" Member="tbl_mains" ThisKey="Id_Quiz" OtherKey="id_quiz" Type="tbl_main" />
+      <Association Name="tbl_quiz_tbl_result" Member="tbl_results" ThisKey="Id_Quiz" OtherKey="Id_Quiz" Type="tbl_result" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tbl_result" Member="tbl_results">
+    <Type Name="tbl_result">
+      <Column Name="Id_Result" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Points_Correct" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Points_InCorrect" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Competency" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Time_Result" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Quiz" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Id_Book" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="id_lesson" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="date_t" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Association Name="tbl_book_tbl_result" Member="tbl_book" ThisKey="Id_Book" OtherKey="Id_Book" Type="tbl_book" IsForeignKey="true" />
+      <Association Name="tbl_lesson_tbl_result" Member="tbl_lesson" ThisKey="id_lesson" OtherKey="id_lesson" Type="tbl_lesson" IsForeignKey="true" />
+      <Association Name="tbl_quiz_tbl_result" Member="tbl_quiz" ThisKey="Id_Quiz" OtherKey="Id_Quiz" Type="tbl_quiz" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

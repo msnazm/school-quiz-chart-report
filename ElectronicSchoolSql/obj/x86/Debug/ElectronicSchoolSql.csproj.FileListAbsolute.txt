@@ -1,0 +1,347 @@
+c:\users\msn\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.Properties.Resources.resources
+c:\users\msn\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\bin\Debug\Data\Data.mdf
+c:\users\msn\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\bin\Debug\Data\Data_log.ldf
+c:\users\msn\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.exe.config
+c:\users\msn\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.exe
+c:\users\msn\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.pdb
+c:\users\msn\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.exe
+c:\users\msn\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pdb
+c:\users\msn\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmbook.resources
+c:\users\msn\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmquizs.resources
+c:\users\msn\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.MDIMain.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmlesson.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.testquiz.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.FrmQuiz.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmidquiz.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmidbook.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmr.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.csproj.ResolveComReference.cache
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.r.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.b.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.o.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.be.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.gho.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.csproj.GenerateResource.Cache
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.startquiz.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.SelectQuiz.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmnewquiz.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmresult.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.csprojResolveAssemblyReference.cache
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.AboutBox1.resources
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\bin\Debug\AnalogClock.dll
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\bin\Debug\AnalogClock.xml
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\bin\Debug\GHNet.Win.dll
+C:\Users\MSN\documents\visual studio 2010\Projects\ElectronicSchoolSql\ElectronicSchoolSql\bin\Debug\GHNet.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.exe.config
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.csproj.ResolveComReference.cache
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.exe
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pdb
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\Data\Data.mdf
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\Data\Data_log.ldf
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.exe
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.pdb
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\AnalogClock.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\GHNet.Win.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\GHNet.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\AnalogClock.xml
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.csprojResolveAssemblyReference.cache
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.b.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.be.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmidquiz.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmlesson.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmnewquiz.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmr.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmresult.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.gho.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.o.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.r.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.SelectQuiz.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.startquiz.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.testquiz.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmbook.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.FrmQuiz.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmquizs.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.MDIMain.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.Properties.Resources.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.csproj.GenerateResource.Cache
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmClassOne.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classtwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classtree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classfure.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classfive.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classsex.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.rahtwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.rahtree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.Form1.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.moomoone.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.facomthreecs.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.facomtwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.faeltectwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.faelthree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.faeltwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fakemathree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fakeomotwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.famafarthree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.famecanicthree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.famecanictwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fanaghmemarithree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fasachobthree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fasafelezithree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fatathree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fathreenaghsheocs.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.naenthree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.naentwocs.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.narifithree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.narifitwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.natathree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.natatwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pishrifi.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pishta.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.main.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.messegebox.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\Data.mdf
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\Data_log.ldf
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.exe.manifest
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.application
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.TrustInfo.xml
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.exe.manifest
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.application
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmhelp.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\Interop.WMPLib.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\ElectronicSchoolSql - Copy\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.AboutBox.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.exe.config
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.csproj.ResolveComReference.cache
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.exe
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pdb
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.AboutBox.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.b.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.be.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classfive.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classfure.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classsex.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classtree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classtwo.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.facomthreecs.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.facomtwo.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.faeltectwo.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.faelthree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.faeltwo.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fakemathree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fakeomotwo.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.famafarthree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.famecanicthree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.famecanictwo.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fanaghmemarithree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fasachobthree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fasafelezithree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fatathree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fathreenaghsheocs.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.Form1.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmClassOne.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmhelp.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmidquiz.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmlesson.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmnewquiz.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmr.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmresult.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.gho.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.main.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.messegebox.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.moomoone.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.naenthree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.naentwocs.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.narifithree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.narifitwo.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.natathree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.natatwo.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.o.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pishrifi.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pishta.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.r.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.rahtree.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.rahtwo.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.SelectQuiz.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.startquiz.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.testquiz.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmbook.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.FrmQuiz.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmquizs.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.MDIMain.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.Properties.Resources.resources
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MSN\Documents\PQI\New folder (2)\ElectronicSchoolSql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.exe.config
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.csproj.ResolveComReference.cache
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.exe
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pdb
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\Data.mdf
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\Data\Data.mdf
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\Data\Data_log.ldf
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\Data_log.ldf
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.exe.manifest
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.application
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.exe
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.pdb
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\GHNet.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\AnalogClock.xml
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\Interop.WMPLib.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.AboutBox.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.b.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.be.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classfive.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classfure.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classsex.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classtree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classtwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.facomthreecs.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.facomtwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.faeltectwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.faelthree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.faeltwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fakemathree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fakeomotwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.famafarthree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.famecanicthree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.famecanictwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fanaghmemarithree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fasachobthree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fasafelezithree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fatathree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fathreenaghsheocs.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.Form1.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmClassOne.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmhelp.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmidquiz.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmlesson.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmnewquiz.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmr.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmresult.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.gho.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.main.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.messegebox.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.moomoone.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.naenthree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.naentwocs.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.narifithree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.narifitwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.natathree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.natatwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.o.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pishrifi.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pishta.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.r.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.rahtree.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.rahtwo.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.SelectQuiz.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.startquiz.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.testquiz.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmbook.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.FrmQuiz.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmquizs.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.MDIMain.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.Properties.Resources.resources
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.TrustInfo.xml
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.exe.manifest
+C:\Users\MSN\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.application
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.exe.config
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.csproj.ResolveComReference.cache
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.exe
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pdb
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.csprojResolveAssemblyReference.cache
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.AboutBox.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.b.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.be.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classfive.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classfure.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classsex.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classtree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.classtwo.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.facomthreecs.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.facomtwo.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.faeltectwo.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.faelthree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.faeltwo.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fakemathree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fakeomotwo.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.famafarthree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.famecanicthree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.famecanictwo.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fanaghmemarithree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fasachobthree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fasafelezithree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fatathree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.fathreenaghsheocs.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.Form1.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmClassOne.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmhelp.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmidquiz.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmlesson.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmnewquiz.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmr.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmresult.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.gho.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.main.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.messegebox.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.moomoone.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.naenthree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.naentwocs.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.narifithree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.narifitwo.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.natathree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.natatwo.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.o.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pishrifi.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.pishta.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.r.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.rahtree.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.rahtwo.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.SelectQuiz.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.startquiz.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.testquiz.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmbook.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.FrmQuiz.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.frmquizs.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.MDIMain.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.Properties.Resources.resources
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.csproj.GenerateResource.Cache
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\Data.mdf
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\Data\Data.mdf
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\Data\Data_log.ldf
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\Data_log.ldf
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.exe.manifest
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.application
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.exe
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\ElectronicSchoolSql.pdb
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\GHNet.dll
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\AnalogClock.xml
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.TrustInfo.xml
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.exe.manifest
+C:\Users\MSNAZM\Documents\Visual Studio 2010\Projects\school\ElectronicSchoolSql\obj\x86\Debug\ElectronicSchoolSql.application

@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AnalogClock</name>
+    </assembly>
+    <members>
+        <member name="T:AnalogClock.TickStyle">
+            <summary>
+            Defines the ticking style used for the second and minute hands of the analog clock. 
+            </summary>
+        </member>
+        <member name="F:AnalogClock.TickStyle.Smooth">
+            <summary>
+            Smooth ticking style. For example if used with second hand it will be updated every millisecond.
+            </summary>
+        </member>
+        <member name="F:AnalogClock.TickStyle.Normal">
+            <summary>
+            Normal ticking style. For example if used with second hand it will be updated every second only.
+            </summary>
+        </member>
+        <member name="T:AnalogClock.AnalogClock">
+            <summary>
+            Represents the Analog clock control.
+            </summary>
+        </member>
+        <member name="M:AnalogClock.AnalogClock.#ctor">
+            <summary>
+            Creates a new instace of the Analog Clock control.
+            </summary>
+        </member>
+        <member name="M:AnalogClock.AnalogClock.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:AnalogClock.AnalogClock.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:AnalogClock.AnalogClock.DrawClock(System.Drawing.Graphics)">
+            <summary>
+            Draws analog clock on the given GDI+ Drawing surface.
+            </summary>
+            <param name="e">The GDI+ Drawing surface.</param>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.FaceImage">
+            <summary>
+            The Background image used in the clock face.
+            </summary>
+            <remarks>Using a large image will result in poor performance and increased memory consumption.</remarks>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.SecondHandTickStyle">
+            <summary>
+            Defines the second hand tick style.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.MinuteHandTickStyle">
+            <summary>
+            Defines the minute hand tick style.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.DrawNumerals">
+            <summary>
+            Determines whether the Numerals are drawn on the clock face.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.SmoothingMode">
+            <summary>
+            Sets or gets the rendering quality of the clock.
+            </summary>
+            <remarks>This property does not effect the numeral text rendering quality. To set the numeral text rendering quality use the <see cref="P:AnalogClock.AnalogClock.TextRenderingHint"/> Property</remarks>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.TextRenderingHint">
+            <summary>
+            Sets or gets the text rendering mode used for the clock numerals.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.DrawRim">
+            <summary>
+            Determines whether the clock Rim is drawn or not.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.DrawDropShadow">
+            <summary>
+            Determines whether drop shadow for the clock is drawn or not.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.DropShadowColor">
+            <summary>
+            Sets or gets the color of the Drop Shadow.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.SecondHandDropShadowColor">
+            <summary>
+            Sets or gets the color of the second hand drop Shadow.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.MinuteHandDropShadowColor">
+            <summary>
+            Sets or gets the color of the Minute hand drop Shadow.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.HourHandDropShadowColor">
+            <summary>
+            Sets or gets the color of the hour hand drop Shadow.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.FaceColorHigh">
+            <summary>
+            Determines the first color of the clock face gradient.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.FaceColorLow">
+            <summary>
+            Determines the second color of the clock face gradient.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.DrawSecondHandShadow">
+            <summary>
+            Determines whether the second hand casts a drop shadow for added realism.  
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.DrawHourHandShadow">
+            <summary>
+            Determines whether the hour hand casts a drop shadow for added realism.  
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.DrawMinuteHandShadow">
+            <summary>
+            Determines whether the minute hand casts a drop shadow for added realism.  
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.RimColorHigh">
+            <summary>
+            Determines the first color of the rim gradient.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.RimColorLow">
+            <summary>
+            Determines the second color of the rim face gradient.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.RimGradientMode">
+            <summary>
+            Gets or sets the direction of the Rim gradient.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.FaceGradientMode">
+            <summary>
+            Gets or sets the direction of the Clock Face gradient.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.SecondHandEndCap">
+            <summary>
+            Determines the Seconds hand end line shape.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.Time">
+            <summary>
+            The System.DateTime structure which is used to display time.
+            </summary>
+            <example>
+            <code>
+            AnalogClock clock = new AnalogClock();
+            clock.Time = DateTime.Now;
+            </code>
+            </example>
+            <remarks>The clock face is updated every time the value of this property is changed.</remarks>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.SecondHandColor">
+            <summary>
+            Gets or sets the color of the Seconds Hand.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.NumeralColor">
+            <summary>
+            Sets or gets the color of the clock Numerals.
+            </summary>
+            <remarks>To change the numeral font use the <see cref="T:System.Drawing.Font"/> Property </remarks>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.HourHandColor">
+            <summary>
+            Gets or sets the color of the Hour Hand.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.MinuteHandColor">
+            <summary>
+            Gets or sets the color of the Minute Hand.
+            </summary>
+        </member>
+        <member name="P:AnalogClock.AnalogClock.DrawSecondHand">
+            <summary>
+            Determines whether the second Hand is shown. 
+            </summary>
+            
+        </member>
+        <member name="P:AnalogClock.AnalogClock.DrawMinuteHand">
+            <summary>
+            Determines whether the minute hand is shown. 
+            </summary>
+            
+        </member>
+        <member name="P:AnalogClock.AnalogClock.DrawHourHand">
+            <summary>
+            Determines whether the hour Hand is shown. 
+            </summary>
+            
+        </member>
+        <member name="P:AnalogClock.AnalogClock.DropShadowOffset">
+            <summary>
+            Gets or sets the drop shadow offset.
+            </summary>
+            
+        </member>
+    </members>
+</doc>

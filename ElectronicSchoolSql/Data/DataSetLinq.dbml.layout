@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14, 8.5" name="DataSetLinq">
+  <DataContextMoniker Name="/DataSetLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ea668054-9af5-4afc-a840-8a0d4fa5b95b" absoluteBounds="3.5, 4.375, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DataSetLinqDataContext/tbl_book" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5454b3fa-7619-480d-89ec-10a6e419b2d4" absoluteBounds="3.515, 4.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="944750e0-0df2-4ffd-8d49-c91a5a72a06c" absoluteBounds="6.25, 4.375, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DataSetLinqDataContext/tbl_lesson" />
+      <nestedChildShapes>
+        <elementListCompartment Id="03f59be5-5029-45aa-97ef-1a0ccfa83816" absoluteBounds="6.265, 4.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2b33ee21-8f0f-4555-b2c3-5a507c6ec4dc" absoluteBounds="9, 4.125, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/DataSetLinqDataContext/tbl_main" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f839852c-6fb6-4a11-b488-f20554b2bdf9" absoluteBounds="9.015, 4.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ae03ea0b-3031-4338-bf21-1f13a81945dd" absoluteBounds="11.75, 3.5, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/DataSetLinqDataContext/tbl_question" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f7635388-e269-4f06-a035-afec48238f71" absoluteBounds="11.765, 3.96, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c3bb2988-6e8a-42fa-bddc-c5f87c9ad4f4" absoluteBounds="0.75, 4.375, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/DataSetLinqDataContext/tbl_quiz" />
+      <nestedChildShapes>
+        <elementListCompartment Id="013e7535-dbe5-43c7-8914-1a929fd8108c" absoluteBounds="0.765, 4.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 5.06814697265625); (6.25 : 5.06814697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataSetLinqDataContext/tbl_book/tbl_book_tbl_lesson" />
+      <nodes>
+        <classShapeMoniker Id="ea668054-9af5-4afc-a840-8a0d4fa5b95b" />
+        <classShapeMoniker Id="944750e0-0df2-4ffd-8d49-c91a5a72a06c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.7612939453125); (5.875 : 6.1362939453125); (5.875 : 6.27089680989583); (8.625 : 6.27089680989583); (9 : 5.89589680989583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataSetLinqDataContext/tbl_book/tbl_book_tbl_main" />
+      <nodes>
+        <classShapeMoniker Id="ea668054-9af5-4afc-a840-8a0d4fa5b95b" />
+        <classShapeMoniker Id="2b33ee21-8f0f-4555-b2c3-5a507c6ec4dc" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 5.06814697265625); (9 : 5.06814697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataSetLinqDataContext/tbl_lesson/tbl_lesson_tbl_main" />
+      <nodes>
+        <classShapeMoniker Id="944750e0-0df2-4ffd-8d49-c91a5a72a06c" />
+        <classShapeMoniker Id="2b33ee21-8f0f-4555-b2c3-5a507c6ec4dc" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11 : 5.01044840494792); (11.75 : 5.01044840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataSetLinqDataContext/tbl_main/tbl_main_tbl_question" />
+      <nodes>
+        <classShapeMoniker Id="2b33ee21-8f0f-4555-b2c3-5a507c6ec4dc" />
+        <classShapeMoniker Id="ae03ea0b-3031-4338-bf21-1f13a81945dd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.06814697265625); (3.5 : 5.06814697265625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataSetLinqDataContext/tbl_quiz/tbl_quiz_tbl_book" />
+      <nodes>
+        <classShapeMoniker Id="c3bb2988-6e8a-42fa-bddc-c5f87c9ad4f4" />
+        <classShapeMoniker Id="ea668054-9af5-4afc-a840-8a0d4fa5b95b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.7612939453125); (3.125 : 6.1362939453125); (3.125 : 6.02089680989583); (8.875 : 6.02089680989583); (9 : 5.89589680989583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataSetLinqDataContext/tbl_quiz/tbl_quiz_tbl_main" />
+      <nodes>
+        <classShapeMoniker Id="c3bb2988-6e8a-42fa-bddc-c5f87c9ad4f4" />
+        <classShapeMoniker Id="2b33ee21-8f0f-4555-b2c3-5a507c6ec4dc" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="9de9777f-c0b1-41a6-ac94-1ecb52870b04" absoluteBounds="8.75, 1.375, 2, 2.5401025390625">
+      <DataClassMoniker Name="/DataSetLinqDataContext/tbl_result" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8bffdab6-1060-4f8a-b0f4-2ee2499cd415" absoluteBounds="8.765, 1.835, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.5 : 4.375); (4.5 : 2.64505126953125); (8.75 : 2.64505126953125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataSetLinqDataContext/tbl_book/tbl_book_tbl_result" />
+      <nodes>
+        <classShapeMoniker Id="ea668054-9af5-4afc-a840-8a0d4fa5b95b" />
+        <classShapeMoniker Id="9de9777f-c0b1-41a6-ac94-1ecb52870b04" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 4.375); (8.75 : 3.9151025390625)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/DataSetLinqDataContext/tbl_lesson/tbl_lesson_tbl_result" />
+      <nodes>
+        <classShapeMoniker Id="944750e0-0df2-4ffd-8d49-c91a5a72a06c" />
+        <classShapeMoniker Id="9de9777f-c0b1-41a6-ac94-1ecb52870b04" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 4.375); (1.75 : 1.97877313476563); (8.75 : 1.97877313476563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataSetLinqDataContext/tbl_quiz/tbl_quiz_tbl_result" />
+      <nodes>
+        <classShapeMoniker Id="c3bb2988-6e8a-42fa-bddc-c5f87c9ad4f4" />
+        <classShapeMoniker Id="9de9777f-c0b1-41a6-ac94-1ecb52870b04" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
